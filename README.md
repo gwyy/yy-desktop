@@ -12,7 +12,7 @@
 ### 前端工具
 + vue3.2
 + vite
-+ vuex
++ pinia
 + vue-router
 + element plus
 ### 后端工具
